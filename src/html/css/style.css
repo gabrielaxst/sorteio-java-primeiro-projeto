@@ -1,0 +1,89 @@
+@import url('https://fonts.cdnfonts.com/css/dec-terminal-modern');
+
+                
+
+body {
+  font-family:'DEC Terminal Modern', sans-serif ;
+  background-image: url("https://img.freepik.com/vetores-gratis/plano-de-fundo-de-estilo-comico-verde_23-2148797741.jpg?w=1380&t=st=1677522180~exp=1677522780~hmac=584823f55081db0e8f7eb00f3f183fc8425e46fa13a7fab349b0c86c6097172d") ;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+p {
+  font-size: 20px;
+  color:white;
+}
+
+
+.sobre2 {
+  color:white;
+  
+}
+
+footer{ 
+color:black;
+ text-align:center;
+ font-size: 20px;
+}
+
+.alunes{ text-align:center;
+color:black;
+
+}
+
+.container{
+    background-color: #014040;
+    border-radius: 30px;
+    box-shadow: 0 0 33px 0 rgb(0 0 0 / 90%);
+    display: flex;
+    flex-wrap:nowrap ;  
+    flex-direction: row;
+    margin-left: 20px;
+    margin-top: 190px;
+    padding: 30px;
+    justify-content: space-around;  
+    width: 95%;  	
+    text-align:center;
+    
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+  font-size: 60px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: -10px;
+  font-size: 30px;
+}
+
+.page-logo {
+  width: 400px;
+  text-align:center;
+}
+
+ button {
+  border: 0;
+  color: #ffffff;
+  background-color:#02735E;
+  font-weight: bold;
+  padding: 15px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+ button:hover {
+  opacity: 0.99;
+   color: #03A678;
+}
+
+img:hover {
+  transition: transform 0.4s;
+  transform: scale(1.2);
+}
+

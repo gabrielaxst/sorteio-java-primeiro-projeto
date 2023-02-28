@@ -5,7 +5,6 @@ import sorteio.model.Participante;
 import sorteio.model.Sorteio;
 import sorteio.model.SorteioAbertura;
 import sorteio.model.SorteioPitch;
-
 import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
